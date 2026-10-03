@@ -31,5 +31,5 @@
 - Biết các nguy cơ an toàn số phổ biến
 - Làm quen được GitHub,NotebookLm,Google Workspace ở mức cơ bản
 - Anh em trong nhóm đoàn kết hơn
-- 
-- 
+- Học được vài kiến thức cơ bản mới ở Github , Google Workspace và khám pha ra các loại AI khác để trải nghiệm 
+- Biết được các bài làm đạo văn người khác, nền tảng khác.
